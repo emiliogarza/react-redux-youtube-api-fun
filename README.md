@@ -1,11 +1,9 @@
 # ReduxSimpleStarter
 
-NOTE: This is just my work from this React Redux class on Udemy I've been taking for fun.
+NOTE: This is just my work from this React Redux class on Udemy I've been taking for fun. Here is the class I'm taking on [Udemy](https://www.udemy.com/react-redux/) about redux.
 
 Though I wrote this code, it was by the direction of Stephen Grider, and the boilerplate is from his Starter kit: [ReactStarter](https://github.com/StephenGrider/ReactStarter/)
 
-
-[Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
