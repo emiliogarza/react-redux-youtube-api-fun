@@ -1,0 +1,25 @@
+/* Search Bar */
+.search-bar {
+    margin: 20px auto;
+    text-align: center;
+}
+
+.search-bar input {
+    width: 100%;
+}
+
+/* Video Detail */
+.video-detail .details {
+    border: 1px solid #ddd;
+    border-radius: .25rem;
+    padding: .75rem 1.25rem;
+    margin: 20px 0;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #ddd;
+}
